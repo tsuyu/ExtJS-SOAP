@@ -1,0 +1,14 @@
+<licenseapplicationCollection xmlns="http://ws.wso2.org/dataservice">
+    <licenseapplication>
+        <id>1</id>
+        <applicationType>kedai</applicationType>
+        <applicantName>ali</applicantName>
+        <nric>23232sasas</nric>
+    </licenseapplication>
+    <licenseapplication>
+        <id>2</id>
+        <applicationType>z</applicationType>
+        <applicantName>z</applicantName>
+        <nric>z</nric>
+    </licenseapplication>
+</licenseapplicationCollection>
